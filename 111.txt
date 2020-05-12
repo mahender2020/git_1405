@@ -1,0 +1,38 @@
+https://www.infrastructure.aws/
+
+
+
+qorp9lm
+
+
+
+https://teams.microsoft.com/l/team/19%3ad2a405393f8d479bae536352c57e201e%40thread.skype/conversations?groupId=4640e181-d5f2-45da-9ac8-2e67fc17dc27&tenantId=258ac4e4-146a-411e-9dc8-79a9e12fd6da
+
+
+
+https://wipro9.signin.aws.amazon.com/console
+
+
+
+ 
+Request Id:  69a59ece-cf51-4c0f-8e65-3e7122f12300 
+ 
+Correlation Id:  00bd03cc-dd04-4636-a24d-ebcbd39980fc 
+
+Timestamp:  2020-04-28T09:40:23.289Z 
+  
+App name: Microsoft Teams
+
+App ID: 1fec8e78-bce4-4aaf-ab1b-5451cc387264
+
+IP address: 27.59.25.183
+ 
+Device identifier: Not available
+
+Device platform: Windows
+
+Device state: Unregistered
+ 
+
+
+TJS-AWS-WORKSHOP
