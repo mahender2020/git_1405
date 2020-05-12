@@ -1,0 +1,18 @@
+
+Software Configuration Management 
+Software Reviews and Testing 
+ITIL Awareness 
+Quality 101
+Lean  
+Digital 101   
+
+
+
+
+
+TCA GIS-DATABASE-ORADMIN-L2 65%
+TCA GIS-CLOUD-CLOUD AWS ADMIN-L2 55%
+TCA BAS-MS-DEVOPS-CONTINUOUSDELIVERY-L1  40%
+
+ACME DOM Payments, Cards and ATM 201-202    80%
+ACME QAP GIS 101 50%

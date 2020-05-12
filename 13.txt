@@ -1,0 +1,28 @@
+Completed: 
+=============================================
+
+Email Writing Skills || 7th April 2020
+
+Win Over Your Customer || 07-April-2020
+
+Art of Business Communication || 8th April 2020 
+
+Presentation Skills || 9th April 2020
+
+Rapport Building || 9th April 2020 
+
+Need to complete: 
+=============================================
+AWS Technical Essentials 13-Apr-20 
+
+Terraform (L1 & L2)  15-17-Apr-20
+
+AWS STP: Building Your Business With AWS   17-Apr-20 
+
+
+AWS IAM + Compute(L1 & L2) 28-Apr-20 
+
+AWS Storage(L1 & L2)  29-Apr-20  
+
+AWS Networking(L1 & L2) 30-Apr-20 
+
